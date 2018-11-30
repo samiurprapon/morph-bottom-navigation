@@ -1,1 +1,1 @@
-include ':morph-bottom-navigation-sample', ':morph-bottom-navigation'
+include ':morph-bottom-navigation-sample'
